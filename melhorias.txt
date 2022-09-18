@@ -1,7 +1,0 @@
-slide das fotos e dos streamers com setinha ou puxando com o mouse, tirando o 'wrap' pra caber mais na linha com certo width pro slide.
-
-testar a animação do topBottom nos títulos.
-
-footer.
-
-mudar o scrollbar.

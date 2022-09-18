@@ -12,7 +12,7 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 🛠 Tecnologias
 
-- HTM
+- HTML
 - CSS
 - Git e GitHub
 
