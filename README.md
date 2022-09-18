@@ -1,6 +1,6 @@
 <h1 align="center">NWL eSports</h1>
 
-<video src="https://user-images.githubusercontent.com/53007399/190838662-d74d5e36-29da-4930-b881-178ff1e53431.mov" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/53007399/190888506-034841dd-ddb5-47d2-a6b7-5f71e9cedd5d.mov" controls="controls" style="max-width: 730px;">
 </video>
 
 <h4 align="center"><a href="https://lukassampaio.github.io/nlw-esports-explorer">📎 Clique aqui para acessar</a></h4>
