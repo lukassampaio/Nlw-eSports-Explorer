@@ -20,7 +20,7 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Mudar tamanho e cor da Scrollbar
+- [✔️] Mudar tamanho e cor da Scrollbar
 - [ ] Footer
 - [ ] Slide
 
